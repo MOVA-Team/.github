@@ -90,9 +90,9 @@
 
 ### Front-End
 
-|                                          React                                          |                                             TypeScript                                            |                                             React Router                                             |
-| :-------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
-| <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="65" height="65"> | <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="65" height="65"> | <img src="https://cdn.simpleicons.org/reactrouter/CA4245" alt="React Router" width="65" height="65"> |
+|                                          React                                          |                                             TypeScript                                            |                                             React Router                                             |                                       React Query (TanStack)                                       |
+| :-------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="65" height="65"> | <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="65" height="65"> | <img src="https://cdn.simpleicons.org/reactrouter/CA4245" alt="React Router" width="65" height="65"> | <img src="https://cdn.simpleicons.org/reactquery/FF4154" alt="React Query" width="65" height="65"> |
 
 
 ### Back-End
