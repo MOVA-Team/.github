@@ -115,6 +115,8 @@
 
 <br/>
 
+
+
 ## Git Branch
 
 `main` : 서비스 운영(릴리즈) 브랜치
@@ -123,3 +125,11 @@
 `pages` : 페이지 개발 브랜치
 
 
+<br/>
+<br/>
+<br/>
+
+## 프로젝트 시연 영상
+
+### 아래의 이미지를 클릭하면 시연 영상을 확인할 수 있습니다. 
+[![프로젝트 시연 영상](https://img.youtube.com/vi/zamkE5sUee0/0.jpg)](https://youtu.be/zamkE5sUee0)
